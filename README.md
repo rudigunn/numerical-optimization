@@ -24,7 +24,7 @@ This repository contains solutions and code for assignments related to numerical
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/numerical-optimization.git
+   git clone https://github.com/rudigunn/numerical-optimization.git
    ```
 2. Install the required Python packages (e.g., numpy, scipy, matplotlib, jupyter):
    ```sh
